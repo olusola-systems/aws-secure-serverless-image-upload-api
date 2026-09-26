@@ -39,6 +39,7 @@ Lambda does not receive the image bytes. Its responsibility is to authenticate t
 ---
 
 ## Architecture
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/cf84f11e-95b7-43bc-ab0a-56216659e4b1" />
 
 The architecture consists of:
 
