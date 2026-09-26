@@ -1,0 +1,22 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+
+# Terraform generated Lambda package
+*.zip
+
+# macOS
+.DS_Store
+
+# Environment / local secrets
+.env
+.env.*
+
+# Editor files
+.vscode/
+.idea/ø
